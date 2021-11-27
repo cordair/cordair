@@ -1,4 +1,4 @@
-Hello stranger.
+Hello, reader.
 
 I'm a physics student from Spain interested in physics (of course), mathematics and computer science.
 I'm also into cryptocurrencies, blockchain and DeFi.
