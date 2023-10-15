@@ -12,7 +12,8 @@ I'll be sharing different things that I happen to be working on.
 
 I'd be happy if I could collaborate in projects, learn new things and all that.
 
-If by any chance you'd like to reach me, you can do so at cordair [at] tuta [dot] io
+If by any chance you'd like to reach me, you can do so at cordair@tuta.io
+
 I encourage you to use my public key, available in the same repository, if you want some privacy.
 
 Live long and prosper.
